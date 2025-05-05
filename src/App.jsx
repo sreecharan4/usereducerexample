@@ -61,7 +61,7 @@ function App() {
 
   return (
     <>
-      <h1>People List</h1>
+      <h1>People List using UseReducer</h1>
       <form onSubmit={subHandler}>
         <div>
           <label>Add ID:</label>
